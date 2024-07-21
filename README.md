@@ -10,4 +10,7 @@ Build expertise in using GitHub and python
 
 ## What you learned
 
-Using python libraries, creating classes and functions, and using GitHub for version control
+- Using python libraries, creating classes and functions, and using GitHub for version control
+- Added a python file to guess a letter in a defined word.
+
+
